@@ -16,11 +16,11 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### 6: Feb 28 - [Autonomous Agents](module05-agents)
 
-### 7: Mar 6 - [Simulation Project](projects/simulation)
+### 7: Mar 6 - [Soft Body Physics](module06-softbody)
+
+### 8: Mar 13 - [Simulation Project](projects/simulation)
 
 ### SPRING BREAK
-
-### 8: Mar 13 - [Soft Body Physics](module06-softbody)
 
 ### 9: Mar 27 - [Fractals and Cellular Automata](module07-fractals-ca)
 
