@@ -28,7 +28,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### 11: Apr 11 - [Neural Networks](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
 
-### 11: Apr 18 - [Neuroevolution](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
+### 12: Apr 18 - [Neuroevolution](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
 
 ### 13: Apr 25 - [Final Project Workshop](projects/final)
 
