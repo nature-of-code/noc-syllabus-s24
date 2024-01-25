@@ -16,7 +16,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### 6: Feb 29 - [Autonomous Agents](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module05-agents)
 
-### 7: Mar 7 - [Physics Libraries](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module06-softbody)
+### 7: Mar 7 - [Physics Libraries](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module06-libraries)
 
 ### 8: Mar 14 - [Simulation Project](projects/simulation)
 
