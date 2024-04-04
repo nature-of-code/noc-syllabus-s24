@@ -1,6 +1,6 @@
 # Final Projects
 
-Your final project is an ~3 week assignment to be completed in three stages (proposal, prototype, and final). The project should be a creative project that builds off or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular aspect of JavaScript or programming.
+Your final project is an ~4 week assignment to be completed in three stages (proposal, prototype, and final). The project should be a creative project that builds off or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular aspect of JavaScript or programming.
 
 Final projects can be collaborations with anyone in any class. Final projects can be one part of a larger project integrated with a different class.
 
@@ -10,7 +10,7 @@ Other notes:
 2. Also think about making a final project for a small audience, even one single person like a family member or friend. . . or yourself. This can be a good way to focus your idea and design process. "Generalizing" the idea can come later (or maybe not at all.)
 3. If you prefer to focus your time on a final project that is more research or project proposal oriented, this is perfectly acceptable!
 
-## Final Project Proposal (Due April 12/13)
+## Final Project Proposals (April 10 and 17)
 
 Put together a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
 
@@ -23,7 +23,7 @@ Put together a final project proposal. It's up to you to best present your idea,
 - **Collect questions for your classmates.**
   - What are you unsure of? Conceptually and technically.
 
-Stay tuned for an update regarding format for proposal sharing and feedback.
+[Schedule is on the wiki](https://github.com/nature-of-code/noc-syllabus-S24/wiki).
 
 ### Guidelines for Proposal Feedback
 
@@ -32,17 +32,17 @@ Stay tuned for an update regarding format for proposal sharing and feedback.
 3. Suggestions for relevant tutorials, reference projects, or other resources?
 4. Are there ways this project can be user tested? What questions would you want to ask?
 
-## Final Project Testing (April 26/27)
+## Final Project Testing (May 1)
 
 The testing will follow a speed "round robin" format. The class will be divided into two groups and we'll do two rounds. For each round half the students will set up on a laptop in the class room and the other half will "view" or "interact with" or "listen to" your project for ~5-7 minutes. We'll rotate so that all "testers" will try each project and provide feedback.
 
 It's up to you to design your "testing". It can mean something different for different projects. For an interactive web page, it's pretty obvious what to do. For a physical installation or performance or twitter bot, this will be more difficult. The "rule" that we will try to adhere to is no explaining of the project until after the user has viewed/interacted.
 
-If you are not sure how to design your testing, e-mail me and we'll discuss. [Schedule and groups are on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki).
+If you are not sure how to design your testing, e-mail me and we'll discuss. [Schedule and groups are on the course wiki](https://github.com/nature-of-code/noc-syllabus-S24/wiki).
 
-## Final Project Documentation (Presentations May 3/4, documentation due May 12)
+## Final Project Presentations (May 1)
 
-To complete the course, please post your final project documentation to a web page (blog post is fine) and [submit on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki). The deadline is May 12, please be in touch if you anticipate any issues meeting the deadline.
+To complete the course, please post your final project documentation to a web page (blog post is fine) and [submit on the course wiki](https://github.com/nature-of-code/noc-syllabus-S4/wiki). The presentations are May 1, however you may have an additional week to complete documentation, please be in touch if you anticipate any issues meeting the deadline.
 
 It's up to you to figure out how to best document your project, here are some loose guidelines if you aren't sure what to include.
 
