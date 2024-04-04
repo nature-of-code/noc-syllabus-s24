@@ -10,7 +10,7 @@ Other notes:
 2. Also think about making a final project for a small audience, even one single person like a family member or friend. . . or yourself. This can be a good way to focus your idea and design process. "Generalizing" the idea can come later (or maybe not at all.)
 3. If you prefer to focus your time on a final project that is more research or project proposal oriented, this is perfectly acceptable!
 
-## Final Project Proposals (April 10 and 17)
+## Final Project Proposals (April 11 and 18)
 
 Put together a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
 
@@ -32,7 +32,7 @@ Put together a final project proposal. It's up to you to best present your idea,
 3. Suggestions for relevant tutorials, reference projects, or other resources?
 4. Are there ways this project can be user tested? What questions would you want to ask?
 
-## Final Project Testing (May 1)
+## Final Project Testing (April 25)
 
 The testing will follow a speed "round robin" format. The class will be divided into two groups and we'll do two rounds. For each round half the students will set up on a laptop in the class room and the other half will "view" or "interact with" or "listen to" your project for ~5-7 minutes. We'll rotate so that all "testers" will try each project and provide feedback.
 
@@ -40,9 +40,9 @@ It's up to you to design your "testing". It can mean something different for dif
 
 If you are not sure how to design your testing, e-mail me and we'll discuss. [Schedule and groups are on the course wiki](https://github.com/nature-of-code/noc-syllabus-S24/wiki).
 
-## Final Project Presentations (May 1)
+## Final Project Presentations (May 2)
 
-To complete the course, please post your final project documentation to a web page (blog post is fine) and [submit on the course wiki](https://github.com/nature-of-code/noc-syllabus-S4/wiki). The presentations are May 1, however you may have an additional week to complete documentation, please be in touch if you anticipate any issues meeting the deadline.
+To complete the course, please post your final project documentation to a web page (blog post is fine) and [submit on the course wiki](https://github.com/nature-of-code/noc-syllabus-S4/wiki). The presentations are May 2, however you may have an additional week to complete documentation (May 9), please be in touch if you anticipate any issues meeting the deadline.
 
 It's up to you to figure out how to best document your project, here are some loose guidelines if you aren't sure what to include.
 
